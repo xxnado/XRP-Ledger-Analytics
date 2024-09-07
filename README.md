@@ -2,13 +2,16 @@
 ## Overview
 This project is an ongoing research initiative focused on understanding user behavior and transaction patterns on the XRP Ledger. We aim to explore innovative ways to leverage data from the ledger, utilizing advanced machine-learning techniques.
 
-# Status
+## Status
 Our research is currently in progress. If you're interested in learning more or would like to collaborate, feel free to reach out to us!
 
-# Team
+## Team
 This project is conducted by three research fellows at the Data Science Knowledge Center of NOVA School of Business and Economics (NOVA SBE), with support and funding provided by Ripple Inc.
 
 - Leonardo Heinemann
 - Luisa Reichenbach
 - Markus Giesbrecht
+
+## License
+This project is licensed under the GNU General Public License v3.0. For more details, see the [LICENSE](https://github.com/xxnado/XRP-Ledger-Analytics/edit/main/LICENSE) file.
 
