@@ -48,7 +48,7 @@ The XRP Ledger (XRPL) supports a variety of transaction types, each serving diff
 - **Special Features**: Can only be executed after the `CancelAfter` time has passed.
 
 ### 10. **PaymentChannelCreate**
-- **Purpose**: To create a payment channel for streaming micropayments.
+- **Purpose**: To create a payment channel for streaming micropayments (created by source account).
 - **Fields**: `Amount`, `Destination`, `SettleDelay`.
 - **Special Features**: Useful for scenarios like IoT payments or services requiring frequent, small payments.
 
@@ -58,7 +58,7 @@ The XRP Ledger (XRPL) supports a variety of transaction types, each serving diff
 - **Special Features**: Extends the channel's life and increases its capacity for payments.
 
 ### 12. **PaymentChannelClaim**
-- **Purpose**: To claim XRP from a payment channel.
+- **Purpose**: To claim XRP from a payment channel (performed by the payment receiver).
 - **Fields**: `Channel`, `Amount`.
 - **Special Features**: Requires a signed claim from the channel owner.
 
