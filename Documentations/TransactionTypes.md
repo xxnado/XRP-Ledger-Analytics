@@ -117,5 +117,5 @@ The XRP Ledger (XRPL) supports a variety of transaction types, each serving diff
 - **Fields**: `OfferID`.
 - **Special Features**: Completes the transaction, transferring the NFT between accounts.
 
-These transaction types enable a wide range of functionalities on the XRP Ledger, from basic payments to more advanced use cases like decentralized exchanges, escrows, payment channels, and NFTs.
+
 
