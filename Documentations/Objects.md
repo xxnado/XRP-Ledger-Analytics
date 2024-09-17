@@ -7,4 +7,4 @@ Objects are ledger entries that represent persistent data structures associated 
 - Payment Channels: Structures that allow off-ledger payments which can be settled later.
 - SignerList: Lists of multi-signature signers for an account.
 
-These objects contribute to the OwnerCount of an account and affect the account's reserve requirements.
+These objects contribute to the `OwnerCount` of an account and affect the account's reserve requirements.
