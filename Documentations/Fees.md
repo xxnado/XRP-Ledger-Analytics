@@ -1,4 +1,5 @@
-# Transaction Fees (≠ Transfer Fees!)
+# Transaction Fees 
+#### (≠ Transfer Fees!)
 
 On the XRP Ledger (XRPL), the sender of the transaction is responsible for paying the transaction fees. This fee is deducted from the sender's account balance and is not transferred to any other party or validator; it is instead destroyed (burned) to reduce the total supply of XRP slightly. The recipient always obtains the full intended amount.
 
