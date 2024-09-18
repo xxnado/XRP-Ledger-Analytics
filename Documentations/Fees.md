@@ -26,5 +26,5 @@ Example: If the load factor increases to 5 due to high traffic, the fee would be
 
 ### 4. Special Cases
 - Multi-Signing: When a transaction requires multiple signatures, each additional signature may slightly increase the transaction fee.
-  Fee = (Base Fee × Load Factor) + (Extra Fee per Signature)
+  `Fee = (Base Fee × Load Factor) + (Extra Fee per Signature)`
 - Escrow and Payment Channels: Advanced features like escrow and payment channels may have specific fee implications based on how they interact with   the network.
