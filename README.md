@@ -1,6 +1,6 @@
 # Ledgerlytics Research Project on XRP Ledger
 ## Overview
-This project is an ongoing research initiative focused on understanding user behavior and transaction patterns on the XRP Ledger. We aim to explore innovative ways to leverage data from the ledger, utilizing advanced machine-learning techniques.
+This project is an ongoing research focused on understanding user behavior and transaction patterns on the XRP Ledger, with a main focus on fraud detection and user account ownership segmentation.. We aim to explore innovative ways to leverage on-chain and off-chain data, utilizing advanced machine-learning techniques. 
 
 ## Status
 Our research is currently in progress. If you're interested in learning more or would like to collaborate, feel free to reach out to us!
